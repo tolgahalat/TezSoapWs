@@ -1,0 +1,4 @@
+tolga\tezsoapws\entity\Adres.class
+tolga\tezsoapws\webservice\TolgaWs.class
+tolga\tezsoapws\entity\Mukellef.class
+tolga\tezsoapws\util\TezUtil.class
